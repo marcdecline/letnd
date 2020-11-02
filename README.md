@@ -1,4 +1,4 @@
-# Letnd
+# Letnd (Migrat a GitLab --Privat)
 Gestor multisite per servidors.<br> 
 Crea backend+backoffice deixant lliure implementació per a front.
 
