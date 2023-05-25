@@ -1,4 +1,4 @@
-#DEPRECATED: [Nou projecte](https://github.com/marcdecline/PersonaTech)
+# DEPRECATED: [Nou projecte](https://github.com/marcdecline/PersonaTech)
 
 ~~# Letnd (Migrat a GitLab --Privat)
 Gestor multisite per servidors.<br> 
